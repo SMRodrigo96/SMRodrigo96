@@ -48,10 +48,6 @@ Sales analysis and interactive dashboard in Power BI.
 
 ## 🎓 Certifications
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Coderhouse_logo.png" height="40"/>
-</p>
-
 - Data Analyst – CoderHouse  
 - Data Scientist – CoderHouse  
 
@@ -67,6 +63,6 @@ Sales analysis and interactive dashboard in Power BI.
 
 ## 📫 Contact
 
-- LinkedIn: *(add your LinkedIn link)*  
+- LinkedIn: *https://www.linkedin.com/in/santa-maria-rodrigo/*  
 - GitHub: https://github.com/SMRodrigo96  
 
